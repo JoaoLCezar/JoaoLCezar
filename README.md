@@ -9,7 +9,6 @@ Atualmente, atuo na ponte entre as necessidades corporativas e o código, desenv
 ### 🏗️ O que estou construindo agora:
 * **Cartlio:** Desenvolvendo do zero um SaaS focado em soluções para o mercado de fotografia.
 * **App de Gestão de Fretes:** Criando um aplicativo mobile voltado para o controle financeiro e logístico do setor de transportes.
-* **Intranet NR Gourmet:** Liderando o desenvolvimento de portais corporativos modernos utilizando SharePoint e SPFx.
 
 ### 🤖 Linguagens e Tecnologias
 <p align="left">
